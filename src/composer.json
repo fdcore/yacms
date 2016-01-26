@@ -1,0 +1,19 @@
+{
+    "require": {
+        "intervention/image": "~2.0",
+        "andre_487/php_rutils": "*",
+        "erusev/parsedown": "dev-master",
+        "michelf/php-markdown": "1.4.1",
+        "hautelook/phpass": "dev-master",
+        "emberlabs/gravatarlib": "dev-master",
+        "respect/validation": "0.7.*@dev",
+        "slim/slim": "2.*",
+        "twig/twig": "~1.0",
+        "league/flysystem": "~1.0",
+        "filp/whoops": "~1.1",
+        "anahkiasen/underscore-php": "~1.3",
+        "zeuxisoo/slim-whoops": "0.3.0",
+        "fabpot/goutte": "~2.0",
+        "secondparty/dipper": "*",
+    }
+}
